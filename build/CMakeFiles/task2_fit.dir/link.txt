@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/task2_fit.dir/task2/linear_fit.cpp.o -o task2_fit 

@@ -1,6 +1,0 @@
-/home/chl/workspace/hw_2/build/CMakeFiles/task1.dir
-/home/chl/workspace/hw_2/build/CMakeFiles/task2.dir
-/home/chl/workspace/hw_2/build/CMakeFiles/task2_fit.dir
-/home/chl/workspace/hw_2/build/CMakeFiles/task2_annotate.dir
-/home/chl/workspace/hw_2/build/CMakeFiles/edit_cache.dir
-/home/chl/workspace/hw_2/build/CMakeFiles/rebuild_cache.dir
