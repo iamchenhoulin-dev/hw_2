@@ -1,0 +1,4 @@
+Angular velocity(rad/s): 1.34775
+Initial angle(rad): 0.632815
+SSE: 77.749
+RMSE(rad): 0.232363

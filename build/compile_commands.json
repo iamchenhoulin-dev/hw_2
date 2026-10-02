@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task1.dir/task1/main.cpp.o -c /home/chl/workspace/hw_2/task1/main.cpp",
+  "file": "/home/chl/workspace/hw_2/task1/main.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -I/home/chl/workspace/hw_2/task2 -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task2.dir/task2/main.cpp.o -c /home/chl/workspace/hw_2/task2/main.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/main.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -I/home/chl/workspace/hw_2/task2 -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task2.dir/task2/cyan_detector.cpp.o -c /home/chl/workspace/hw_2/task2/cyan_detector.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/cyan_detector.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -I/home/chl/workspace/hw_2/task2 -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task2.dir/task2/motion_math.cpp.o -c /home/chl/workspace/hw_2/task2/motion_math.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/motion_math.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/task2_fit.dir/task2/linear_fit.cpp.o -c /home/chl/workspace/hw_2/task2/linear_fit.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/linear_fit.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -I/home/chl/workspace/hw_2/task2 -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task2_annotate.dir/task2/annotate_video.cpp.o -c /home/chl/workspace/hw_2/task2/annotate_video.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/annotate_video.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -I/home/chl/workspace/hw_2/task2 -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task2_annotate.dir/task2/cyan_detector.cpp.o -c /home/chl/workspace/hw_2/task2/cyan_detector.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/cyan_detector.cpp"
+},
+{
+  "directory": "/home/chl/workspace/hw_2/build",
+  "command": "/usr/bin/g++  -I/home/chl/workspace/hw_2/task2 -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/task2_annotate.dir/task2/motion_math.cpp.o -c /home/chl/workspace/hw_2/task2/motion_math.cpp",
+  "file": "/home/chl/workspace/hw_2/task2/motion_math.cpp"
+}
+]
